@@ -94,7 +94,7 @@
 								<h3 class="mb-3" style="font-family: sans-serif">Nguyễn Công Thành</h3>
 								<p class="mb-1" style="font-family: sans-serif">MSSV: 22-0-21259</p>
 								<p class="mb-4" style="font-family: sans-serif">K22 Trường Cao Đẳng Sài Gòn</p>
-								<button class="btn btn-outline-dark btn-sm"><a id='info' href='https://www.facebook.com/profile.php?id=100038754953468'><span class="fa fa-facebook"></span> Facebook</button>
+								<button class="btn btn-outline-dark btn-sm"><a id='info' href='#'><span class="fa fa-facebook"></span> Facebook</button>
 							</div>
 						</div>
 					</div>
